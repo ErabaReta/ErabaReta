@@ -1,5 +1,5 @@
 ### Quik Bio, Hi.. 👋
-hi, I am an IT student.
+hi, I am a morrocan IT student.
 
 I'm on developing skills step.
 
