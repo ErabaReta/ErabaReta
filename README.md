@@ -11,11 +11,11 @@ I'm trying to create some interesting stuff here you can explore my repos (wait 
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br/>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ErabaReta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ErabaReta&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErabaReta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ErabaReta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=ErabaReta&theme=tokyonight&hide_border=false)<br/>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ErabaReta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
