@@ -20,8 +20,7 @@ I'm trying to create some interesting stuff here you can explore my repos (wait 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ErabaReta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ErabaReta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
@@ -33,6 +32,10 @@ I'm trying to create some interesting stuff here you can explore my repos (wait 
 
 <!--
 **ErabaReta/ErabaReta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErabaReta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ErabaReta&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 Here are some ideas to get you started:
 
