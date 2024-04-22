@@ -7,7 +7,7 @@ I m studying right now at 1337 school bengreuir that is part of 42.
 
 I'm trying to create some interesting stuff here you can explore my repos (wait for my private ones to turn public too after I finish them).
 
-[![eouhrich's 42 stats](https://badge.mediaplus.ma/binary/eouhrich)](https://github.com/oakoudad/badge42)
+[![eouhrich's 42 stats](https://badge.mediaplus.ma/greenbinary/eouhrich)](https://github.com/oakoudad/badge42)
 
 
 # 💻 Tech Stack:
