@@ -21,7 +21,6 @@ I'm trying to create some interesting stuff here you can explore my repos (wait 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=erabareta&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=erabareta&theme=chartreuse-dark&hide_border=false)
 
-## 🏆 GitHub Trophies
 
 [![](https://visitcount.itsvg.in/api?id=erabareta&icon=7&color=3)](https://visitcount.itsvg.in)
 
@@ -31,6 +30,7 @@ I'm trying to create some interesting stuff here you can explore my repos (wait 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=erabareta&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
