@@ -1,7 +1,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ### Quik Bio, Hi.. 👋
-hi, my name is OUHRICH El Mokhtar and I am a moroccan IT student.
+hi, my name is OUHRICH El Mokhtar, Known as ErabaReta, and I am a moroccan IT student.
 
 I'm on developing skills step.
 
