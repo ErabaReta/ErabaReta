@@ -1,11 +1,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ### Quik Bio, Hi.. 👋
-hi, my name is OUHRICH El Mokhtar, Known as ErabaReta, and I am a moroccan IT student.
+hi, my name is OUHRICH El Mokhtar, Known as ErabaReta, and I am a moroccan IT & Software Devolepment student.
 
-I'm on developing skills step.
+I'm on developing skills step. Well, I have many interests  and passions about many things like IT , Math, Science, Anime, Games, chess, Art ...
 
-I m studying right now at 1337 school bengreuir that is part of 42.
+I m studying right now at 1337 coding school bengreuir that is part of 42.
 
 I'm trying to create some interesting stuff here you can explore my repos (wait for my private ones to turn public too after I finish them).
 
