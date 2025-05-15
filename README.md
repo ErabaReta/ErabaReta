@@ -27,6 +27,13 @@ I'm trying to create some interesting stuff here you can explore my repos (wait 
 
 ---
 
+## my favorite repo so far:
+
+![**fdf**](https://github.com/ErabaReta/fdf)
+
+
+![**Cub3d**](https://github.com/radouane-tamouss/Cub3d)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
