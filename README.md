@@ -28,9 +28,10 @@ I'm trying to create some interesting stuff here you can explore my repos (wait 
 
 ## 📌 Notable Projects
 
-- [fdf](https://github.com/ErabaReta/fdf): 3D landscape representation using wireframe models.
-- [Cub3D](https://github.com/radouane-tamouss/Cub3d): A 3D raycasting game engine inspired by Wolfenstein 3D, built with MinilibX graphics library..
-- Contributor to [auto-differentiation/xad](https://github.com/auto-differentiation/xad): Enhancing performance through collaborative efforts.
+- [**fdf**](https://github.com/ErabaReta/fdf): 3D landscape representation using wireframe models.
+- [**Cub3D**](https://github.com/radouane-tamouss/Cub3d): A 3D raycasting game engine inspired by Wolfenstein 3D, built with MinilibX graphics library..
+- [**MiniShell**](https://github.com/ErabaReta/Minishell): This project is about creating a simple shell. Yes, my own little bash.
+- Contributor to [**auto-differentiation/xad**](https://github.com/auto-differentiation/xad): Enhancing performance through collaborative efforts.
 
 ---
 <p align="center">
