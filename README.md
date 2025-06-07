@@ -33,7 +33,7 @@ I'm trying to create some interesting stuff here you can explore my repos (wait 
 - [**MiniShell**](https://github.com/ErabaReta/Minishell): This project is about creating a simple shell. Yes, my own little bash.
 - Contributor to [**auto-differentiation/xad**](https://github.com/auto-differentiation/xad): Enhancing performance through collaborative efforts.
 
-## my small open source solutions
+### my small open source solutions
 
 - [**Heap Controller**](https://github.com/ErabaReta/Heap_controller): simple garbage collector design I made to manage memory in C programs.
 - [**Fixed Point Cpp**](https://github.com/ErabaReta/Fixed-point-cpp): A lightweight C++ class that implements fixed-point arithmetic as a replacement for floating-point.
