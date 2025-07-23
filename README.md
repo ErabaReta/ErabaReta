@@ -8,6 +8,7 @@ I'm on developing skills step. Well, I have many interests  and passions about m
 I m studying right now at 1337 coding school bengreuir that is part of 42.
 
 I'm trying to create some interesting stuff here you can explore my repos (wait for my private ones to turn public too after I finish them).
+check my notable repos , Idk you may find one interesting .. hopefully.
 <!-- 
 ![eouhrich's 42 stats](https://badge.mediaplus.ma/greenbinary/eouhrich)
 -->
